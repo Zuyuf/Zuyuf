@@ -1,6 +1,6 @@
 ### Hi there, I'm Zuyufullah Manna! 👋
 
-🚀 Full-Stack Engineer (3.5+ YoE) | 💡 Tech Enthusiast | 🪙 Crypto
+🚀 Full-Stack Engineer (3.5+ YoE)  **|**  💡 Tech Enthusiast  **|**  🪙 Crypto
 
 Welcome to my digital playground!   
 Here, you'll find a mix of code, creativity, and curiosity. I believe that technology is a canvas, and I'm here to paint some dazzling digital masterpieces.
