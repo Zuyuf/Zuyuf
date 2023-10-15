@@ -25,6 +25,7 @@ Here, you'll find a mix of code, creativity, and curiosity. I believe that techn
 
 - 📫 Drop me a message: [Email me](mailto:zuyufmanna@gmail.com)
 - 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/zuyuf/)
+- <img src="./assets/medium-icon-svgrepo-com.png" height="17">  Checkout my Legendary Articles on [Medium](https://medium.com/@zuyufmanna)
 - 🌐 Check out my portfolio: [Word In Progress 🚧]
 
 Thanks for dropping by! Let's build the future together. 🚀✨
